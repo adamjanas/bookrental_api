@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 djangorestframework = "*"
-Django = "==3.0.2"
+Django = "==3.0.7"
 
 [requires]
 python_version = "3.8"
